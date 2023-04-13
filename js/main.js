@@ -67,7 +67,6 @@
     }
     setButtonStateInitial();
     timer.textContent = "00:00.000";
-    startTime = Date.now();
     elapsedTime = 0;
   });
 }
